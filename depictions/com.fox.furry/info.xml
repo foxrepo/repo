@@ -1,0 +1,14 @@
+<package>
+	<id>com.fox.furry</id>
+	<name>furry</name>
+	<version>0.1</version>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Furry-ify your phone!</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
