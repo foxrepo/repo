@@ -27,7 +27,7 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
 Package: com.fox.furry
-Version: 0.1
+Version: 0.2
 Section: Themes
 Maintainer: Fox
 Architecture: iphoneos-arm
@@ -35,6 +35,6 @@ Filename: ./debs/com.fox.furry.deb
 Size: 68404
 MD5sum: fe264a946484d83ddb7899d1c55e4932
 Description: A theme to furry-ify your phone!
-Name: Fox
+Name: furry
 Author: Fox
 Depiction: https://foxrepo.github.io/repo/depictions/furry

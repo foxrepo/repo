@@ -1,14 +1,14 @@
 <package>
 	<id>com.fox.furry</id>
 	<name>furry</name>
-	<version>0.1</version>
+	<version>0.2</version>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Furry-ify your phone!</description>
+		<description>Furry-ify your phone!<b>PLEASE NOTE</b>this is not my art.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Added Steam Reddit Snapchat and Twitter icons!</change>
 	</changelog>
 	<links></links>
 </package>
