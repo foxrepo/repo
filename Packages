@@ -33,7 +33,7 @@ Maintainer: Fox
 Architecture: iphoneos-arm
 Filename: ./debs/com.fox.furry.deb
 Size: 68404
-MD5sum: a10d2813cbf9eb3eff3acc6fa070e160x
+MD5sum: a10d2813cbf9eb3eff3acc6fa070e160
 Description: A theme to furry-ify your phone!
 Name: furry
 Author: Fox
